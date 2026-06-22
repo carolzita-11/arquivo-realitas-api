@@ -12,7 +12,7 @@
     "nome": "O Carente",
     "elemento": "Sangue",
     "ameaca": "Alta",
-    "descricao": "O Carente, é uma criatura de Sangue com complemento de Morte,[2] fruto do livro de Daniel Hartmann "Contos de uma Criatura Carente", sobre uma criatura que devora órgãos internos de mulheres que foram mães graças à sua inveja de seres que recebem amor até mesmo antes de nascerem.",
+    "descricao": "O Carente, é uma criatura de Sangue com complemento de Morte,[2] fruto do livro de Daniel Hartmann 'Contos de uma Criatura Carente', sobre uma criatura que devora órgãos internos de mulheres que foram mães graças à sua inveja de seres que recebem amor até mesmo antes de nascerem.",
     "imagemUrl": "https://raw.githubusercontent.com/carolzita-11/arquivo-realitas-api/main/imagens/carente.jpg"
   },
   {
@@ -60,7 +60,7 @@
     "nome": "O Espreitador",
     "elemento": "Conhecimento",
     "ameaca": "Média",
-    "descricao": "O Espreitador é uma criatura paranormal de Conhecimento com complemento de Medo que se manifesta através de cantos escuros e frestas, observando aqueles marcados por ele enquanto presente nesses lugares. Essa criatura foi criada a partir do livro "O Espreitador - e outros contos de terror", escrito por Daniel Hartmann baseado nas histórias envolvendo a vida de Vanessa Ângelo.",
+    "descricao": "O Espreitador é uma criatura paranormal de Conhecimento com complemento de Medo que se manifesta através de cantos escuros e frestas, observando aqueles marcados por ele enquanto presente nesses lugares. Essa criatura foi criada a partir do livro 'O Espreitador - e outros contos de terror', escrito por Daniel Hartmann baseado nas histórias envolvendo a vida de Vanessa Ângelo.",
     "imagemUrl": "https://raw.githubusercontent.com/carolzita-11/arquivo-realitas-api/main/imagens/espreitador.jpg"
   },
   {
@@ -68,7 +68,7 @@
     "nome": "Existido",
     "elemento": "Conhecimento",
     "ameaca": "Baixa",
-    "descricao": "Os Existidos são criaturas de Conhecimento diferentes das demais, onde alguém se torna um Existido a partir do momento que ele entende o Outro Lado por completo, após lembrar da "Verdade Impossível", incapaz de esquecê-la novamente.",
+    "descricao": "Os Existidos são criaturas de Conhecimento diferentes das demais, onde alguém se torna um Existido a partir do momento que ele entende o Outro Lado por completo, após lembrar da 'Verdade Impossível', incapaz de esquecê-la novamente.",
     "imagemUrl": "https://raw.githubusercontent.com/carolzita-11/arquivo-realitas-api/main/imagens/existido.jpg"
   },
   {
