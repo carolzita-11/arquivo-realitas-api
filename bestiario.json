@@ -9,65 +9,90 @@
 },
   {
     "id": 2,
-    "nome": "Carcaça de Vidro",
-    "elemento": "Conhecimento",
-    "ameaca": "Média",
-    "descricao": "Ameaça frágil e distorcida, coberta por marcas incompreensíveis e reflexos impossíveis."
+    "nome": "O Carente",
+    "elemento": "Sangue",
+    "ameaca": "Alta",
+    "descricao": "O Carente, é uma criatura de Sangue com complemento de Morte,[2] fruto do livro de Daniel Hartmann "Contos de uma Criatura Carente", sobre uma criatura que devora órgãos internos de mulheres que foram mães graças à sua inveja de seres que recebem amor até mesmo antes de nascerem.",
+    "imagemUrl": "https://raw.githubusercontent.com/carolzita-11/arquivo-realitas-api/main/imagens/carente.jpg"
   },
   {
     "id": 3,
-    "nome": "Fera Rubra",
+    "nome": "Quibungo",
     "elemento": "Sangue",
     "ameaca": "Alta",
-    "descricao": "Predador agressivo guiado por instinto, dor e violência, atacando qualquer sinal de vida próxima."
+    "descricao": "O Quibungo é uma criatura de Sangue que nasceu da lenda de mesmo nome e foi distorcida pelo Outro Lado. Tomada pelo Sangue, se tornou uma criatura cruel que caça em ambientes selvagens."
+    "imagemUrl": "https://raw.githubusercontent.com/carolzita-11/arquivo-realitas-api/main/imagens/quibungo.jpg"
   },
   {
     "id": 4,
-    "nome": "Eco Estático",
-    "elemento": "Energia",
+    "nome": "Esqueleto de Lodo",
+    "elemento": "Morte",
     "ameaca": "Baixa",
-    "descricao": "Manifestação instável que interfere em aparelhos eletrônicos e distorce sons ao redor."
+    "descricao": "Os Esqueletos de Lodo são uma espécie de criatura que se manifesta a partir de um cadáver consumido pela Morte."
+    "imagemUrl": "https://raw.githubusercontent.com/carolzita-11/arquivo-realitas-api/main/imagens/esqueleto-de-lodo.jpg"
   },
   {
     "id": 5,
-    "nome": "Limiar Cinzento",
-    "elemento": "Medo",
-    "ameaca": "Extrema",
-    "descricao": "Presença rara e incompreensível que altera a percepção dos agentes e enfraquece a noção de realidade."
+    "nome": "Carniçal Preto da Morte",
+    "elemento": "Morte",
+    "ameaca": "Alta",
+    "descricao": "O Carniçal Preto da Morte, ou apenas Carniçal Preto, é uma criatura paranormal de Morte com complemento de Conhecimento que surge a partir de uma tentativa fracassada de dar consciência à entidade de Morte na Realidade por conta do Símbolo Espiral marcado no crânio de uma pessoa, tendo como exemplo o corpo morto de Virgulino Batista.",
+    "imagemUrl": "https://raw.githubusercontent.com/carolzita-11/arquivo-realitas-api/main/imagens/carnical.jpg"
   },
   {
     "id": 6,
-    "nome": "Mímico de Pele",
-    "elemento": "Sangue",
-    "ameaca": "Média",
-    "descricao": "Criatura que imita vozes e expressões humanas para atrair vítimas isoladas."
+    "nome": "Nidere",
+    "elemento": "Morte",
+    "ameaca": "Alta",
+    "descricao": "O Nidere,[1] também conhecido como Cão de Lodo, é uma bizarra e distorcida criatura paranormal de formato similar a um lobo de Morte com complemento de Sangue e Medo que habita florestas e ambientes selvagens, sendo responsável por diversos desaparecimentos de campistas.",
+    "imagemUrl": "https://raw.githubusercontent.com/carolzita-11/arquivo-realitas-api/main/imagens/nidere.jpg"
   },
   {
     "id": 7,
-    "nome": "Oráculo Partido",
+    "nome": "O Estrangeiro",
     "elemento": "Conhecimento",
     "ameaca": "Alta",
-    "descricao": "Entidade coberta por símbolos que revela verdades fragmentadas capazes de confundir seus perseguidores."
+    "descricao": "O Estrangeiro é uma misteriosa criatura de Transmissão, tendo uma natureza desconhecida e sendo extremamente inteligente. Suas aparições são sempre relatadas como abduções, e sua presença sempre causa interferência em dispositivos digitais e desconforto.",
+    "imagemUrl": "https://raw.githubusercontent.com/carolzita-11/arquivo-realitas-api/main/imagens/estrangeiro.jpg"
   },
   {
     "id": 8,
-    "nome": "Ruído Vivo",
-    "elemento": "Energia",
+    "nome": "O Espreitador",
+    "elemento": "Conhecimento",
     "ameaca": "Média",
-    "descricao": "Ameaça formada por interferências, luzes instáveis e sons impossíveis de localizar."
+    "descricao": "O Espreitador é uma criatura paranormal de Conhecimento com complemento de Medo que se manifesta através de cantos escuros e frestas, observando aqueles marcados por ele enquanto presente nesses lugares. Essa criatura foi criada a partir do livro "O Espreitador - e outros contos de terror", escrito por Daniel Hartmann baseado nas histórias envolvendo a vida de Vanessa Ângelo.",
+    "imagemUrl": "https://raw.githubusercontent.com/carolzita-11/arquivo-realitas-api/main/imagens/espreitador.jpg"
   },
   {
     "id": 9,
-    "nome": "Noiva do Sepulcro",
-    "elemento": "Morte",
-    "ameaca": "Alta",
-    "descricao": "Aparição ligada a rituais interrompidos, surgindo em locais onde promessas foram quebradas."
+    "nome": "Existido",
+    "elemento": "Conhecimento",
+    "ameaca": "Baixa",
+    "descricao": "Os Existidos são criaturas de Conhecimento diferentes das demais, onde alguém se torna um Existido a partir do momento que ele entende o Outro Lado por completo, após lembrar da "Verdade Impossível", incapaz de esquecê-la novamente.",
+    "imagemUrl": "https://raw.githubusercontent.com/carolzita-11/arquivo-realitas-api/main/imagens/existido.jpg"
   },
   {
     "id": 10,
-    "nome": "Máscara Sem Rosto",
-    "elemento": "Medo",
-    "ameaca": "Extrema",
-    "descricao": "Presença anômala que se manifesta através de máscaras vazias e memórias apagadas."
+    "nome": "Anárquico",
+    "elemento": "Energia",
+    "ameaca": "Média",
+    "descricao": "Os Anárquicos são criaturas de Energia imprevisíveis e erráticas que se manifestam a partir de uma morte em um ambiente com a membrana danificada, causada por um evento inoportuno e azarado, fazendo com que a entidade de Energia rapidamente consuma o corpo.",
+    "imagemUrl": "https://raw.githubusercontent.com/carolzita-11/arquivo-realitas-api/main/imagens/anarquico.jpg"
+  }
+  {
+    "id": 11,
+    "nome": "Sukkalgir",
+    "elemento": "Energia",
+    "ameaca": "Média",
+    "descricao": "A Sukkalgir é uma criatura paranormal de Energia com complemento de Conhecimento, surgindo da tortura através das chamas. Ela foi originada na antiga Suméria através de um processo enlouquecedor que marcava em fogo a pele da vítima os feitos horríveis de seu captor.",
+    "imagemUrl": "https://raw.githubusercontent.com/carolzita-11/arquivo-realitas-api/main/imagens/sukall.jpg"
+  }
+  {
+    "id": 12,
+    "nome": "Perturbado de Energia",
+    "elemento": "Energia",
+    "ameaca": "Baixa",
+    "descricao": "Perturbados de Energia são entidades paranormais de Energia que se manifestam a partir de uma alma enlouquecida de forma brusca e agressiva, onde a confusão de sua mente pode ser tão violenta que ela perde a percepção da Realidade antes mesmo de perceber que está morta.",
+    "imagemUrl": "https://raw.githubusercontent.com/carolzita-11/arquivo-realitas-api/main/imagens/perturbado.jpg"
   }
 ]
