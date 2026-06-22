@@ -6,13 +6,13 @@
     "ameaca": "Baixa",
     "descricao": "Os Zumbis de Sangue são criaturas paranormais de Sangue, originando-se de cadáveres que foram mortos brutalmente e deixados abandonados em uma área com a Membrana enfraquecida.",
     "imagemUrl": "https://raw.githubusercontent.com/carolzita-11/arquivo-realitas-api/main/imagens/zumbi-de-sangue.jpg"
-},
+  },
   {
     "id": 2,
     "nome": "O Carente",
     "elemento": "Sangue",
     "ameaca": "Alta",
-    "descricao": "O Carente, é uma criatura de Sangue com complemento de Morte,[2] fruto do livro de Daniel Hartmann 'Contos de uma Criatura Carente', sobre uma criatura que devora órgãos internos de mulheres que foram mães graças à sua inveja de seres que recebem amor até mesmo antes de nascerem.",
+    "descricao": "O Carente é uma criatura de Sangue com complemento de Morte, fruto do livro de Daniel Hartmann 'Contos de uma Criatura Carente', sobre uma criatura que devora órgãos internos de mulheres que foram mães graças à sua inveja de seres que recebem amor até mesmo antes de nascerem.",
     "imagemUrl": "https://raw.githubusercontent.com/carolzita-11/arquivo-realitas-api/main/imagens/carente.jpg"
   },
   {
@@ -20,7 +20,7 @@
     "nome": "Quibungo",
     "elemento": "Sangue",
     "ameaca": "Alta",
-    "descricao": "O Quibungo é uma criatura de Sangue que nasceu da lenda de mesmo nome e foi distorcida pelo Outro Lado. Tomada pelo Sangue, se tornou uma criatura cruel que caça em ambientes selvagens."
+    "descricao": "O Quibungo é uma criatura de Sangue que nasceu da lenda de mesmo nome e foi distorcida pelo Outro Lado. Tomada pelo Sangue, se tornou uma criatura cruel que caça em ambientes selvagens.",
     "imagemUrl": "https://raw.githubusercontent.com/carolzita-11/arquivo-realitas-api/main/imagens/quibungo.jpg"
   },
   {
@@ -28,7 +28,7 @@
     "nome": "Esqueleto de Lodo",
     "elemento": "Morte",
     "ameaca": "Baixa",
-    "descricao": "Os Esqueletos de Lodo são uma espécie de criatura que se manifesta a partir de um cadáver consumido pela Morte."
+    "descricao": "Os Esqueletos de Lodo são uma espécie de criatura que se manifesta a partir de um cadáver consumido pela Morte.",
     "imagemUrl": "https://raw.githubusercontent.com/carolzita-11/arquivo-realitas-api/main/imagens/esqueleto-de-lodo.jpg"
   },
   {
@@ -44,7 +44,7 @@
     "nome": "Nidere",
     "elemento": "Morte",
     "ameaca": "Alta",
-    "descricao": "O Nidere,[1] também conhecido como Cão de Lodo, é uma bizarra e distorcida criatura paranormal de formato similar a um lobo de Morte com complemento de Sangue e Medo que habita florestas e ambientes selvagens, sendo responsável por diversos desaparecimentos de campistas.",
+    "descricao": "O Nidere, também conhecido como Cão de Lodo, é uma bizarra e distorcida criatura paranormal de formato similar a um lobo de Morte com complemento de Sangue e Medo que habita florestas e ambientes selvagens, sendo responsável por diversos desaparecimentos de campistas.",
     "imagemUrl": "https://raw.githubusercontent.com/carolzita-11/arquivo-realitas-api/main/imagens/nidere.jpg"
   },
   {
@@ -78,7 +78,7 @@
     "ameaca": "Média",
     "descricao": "Os Anárquicos são criaturas de Energia imprevisíveis e erráticas que se manifestam a partir de uma morte em um ambiente com a membrana danificada, causada por um evento inoportuno e azarado, fazendo com que a entidade de Energia rapidamente consuma o corpo.",
     "imagemUrl": "https://raw.githubusercontent.com/carolzita-11/arquivo-realitas-api/main/imagens/anarquico.jpg"
-  }
+  },
   {
     "id": 11,
     "nome": "Sukkalgir",
@@ -86,7 +86,7 @@
     "ameaca": "Média",
     "descricao": "A Sukkalgir é uma criatura paranormal de Energia com complemento de Conhecimento, surgindo da tortura através das chamas. Ela foi originada na antiga Suméria através de um processo enlouquecedor que marcava em fogo a pele da vítima os feitos horríveis de seu captor.",
     "imagemUrl": "https://raw.githubusercontent.com/carolzita-11/arquivo-realitas-api/main/imagens/sukall.jpg"
-  }
+  },
   {
     "id": 12,
     "nome": "Perturbado de Energia",
