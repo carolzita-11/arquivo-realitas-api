@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "nome": "Combatente",
+    "categoria": "Classe",
+    "descricao": "Agente focado em resistência, combate físico e proteção do grupo.",
+    "imagemUrl": ""
+  },
+  {
+    "id": 2,
+    "nome": "Especialista",
+    "categoria": "Classe",
+    "descricao": "Agente voltado para investigação, perícias, estratégia e suporte técnico.",
+    "imagemUrl": ""
+  },
+  {
+    "id": 3,
+    "nome": "Ocultista",
+    "categoria": "Classe",
+    "descricao": "Agente que estuda fenômenos paranormais e utiliza conhecimentos proibidos.",
+    "imagemUrl": ""
+  },
+  {
+    "id": 4,
+    "nome": "Acadêmico",
+    "categoria": "Origem",
+    "descricao": "Personagem com histórico de estudos, pesquisa, leitura e conhecimento teórico.",
+    "imagemUrl": ""
+  },
+  {
+    "id": 5,
+    "nome": "Ex-Policial",
+    "categoria": "Origem",
+    "descricao": "Personagem com experiência em investigação, abordagem, armas e situações de risco.",
+    "imagemUrl": ""
+  },
+  {
+    "id": 6,
+    "nome": "Militar",
+    "categoria": "Origem",
+    "descricao": "Personagem treinado para combate, disciplina, estratégia e resistência física.",
+    "imagemUrl": ""
+  },
+  {
+    "id": 7,
+    "nome": "Lanterna Tática",
+    "categoria": "Equipamento",
+    "descricao": "Item útil para exploração de ambientes escuros durante missões investigativas.",
+    "imagemUrl": ""
+  },
+  {
+    "id": 8,
+    "nome": "Kit de Primeiros Socorros",
+    "categoria": "Equipamento",
+    "descricao": "Equipamento usado para prestar atendimento emergencial durante uma missão.",
+    "imagemUrl": ""
+  },
+  {
+    "id": 9,
+    "nome": "Grimório Antigo",
+    "categoria": "Item Paranormal",
+    "descricao": "Livro misterioso contendo registros, símbolos e conhecimentos ocultos.",
+    "imagemUrl": ""
+  },
+  {
+    "id": 10,
+    "nome": "Entidade Sombria",
+    "categoria": "Ameaça",
+    "descricao": "Ameaça paranormal genérica usada como referência narrativa para campanhas.",
+    "imagemUrl": ""
+  },
+  {
+    "id": 11,
+    "nome": "Ruído no Rádio",
+    "categoria": "Fenômeno",
+    "descricao": "Interferência inexplicável que pode indicar presença paranormal no ambiente.",
+    "imagemUrl": ""
+  },
+  {
+    "id": 12,
+    "nome": "Missão: Arquivo Perdido",
+    "categoria": "Missão",
+    "descricao": "Investigação sobre documentos desaparecidos em uma instalação abandonada.",
+    "imagemUrl": ""
+  }
+]
