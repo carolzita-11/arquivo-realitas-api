@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "nome": "Vulto Abissal",
+    "elemento": "Morte",
+    "ameaca": "Alta",
+    "descricao": "Criatura silenciosa que surge em locais marcados por desaparecimentos e memórias fragmentadas."
+  },
+  {
+    "id": 2,
+    "nome": "Carcaça de Vidro",
+    "elemento": "Conhecimento",
+    "ameaca": "Média",
+    "descricao": "Ameaça frágil e distorcida, coberta por marcas incompreensíveis e reflexos impossíveis."
+  },
+  {
+    "id": 3,
+    "nome": "Fera Rubra",
+    "elemento": "Sangue",
+    "ameaca": "Alta",
+    "descricao": "Predador agressivo guiado por instinto, dor e violência, atacando qualquer sinal de vida próxima."
+  },
+  {
+    "id": 4,
+    "nome": "Eco Estático",
+    "elemento": "Energia",
+    "ameaca": "Baixa",
+    "descricao": "Manifestação instável que interfere em aparelhos eletrônicos e distorce sons ao redor."
+  },
+  {
+    "id": 5,
+    "nome": "Limiar Cinzento",
+    "elemento": "Medo",
+    "ameaca": "Extrema",
+    "descricao": "Presença rara e incompreensível que altera a percepção dos agentes e enfraquece a noção de realidade."
+  },
+  {
+    "id": 6,
+    "nome": "Mímico de Pele",
+    "elemento": "Sangue",
+    "ameaca": "Média",
+    "descricao": "Criatura que imita vozes e expressões humanas para atrair vítimas isoladas."
+  },
+  {
+    "id": 7,
+    "nome": "Oráculo Partido",
+    "elemento": "Conhecimento",
+    "ameaca": "Alta",
+    "descricao": "Entidade coberta por símbolos que revela verdades fragmentadas capazes de confundir seus perseguidores."
+  },
+  {
+    "id": 8,
+    "nome": "Ruído Vivo",
+    "elemento": "Energia",
+    "ameaca": "Média",
+    "descricao": "Ameaça formada por interferências, luzes instáveis e sons impossíveis de localizar."
+  },
+  {
+    "id": 9,
+    "nome": "Noiva do Sepulcro",
+    "elemento": "Morte",
+    "ameaca": "Alta",
+    "descricao": "Aparição ligada a rituais interrompidos, surgindo em locais onde promessas foram quebradas."
+  },
+  {
+    "id": 10,
+    "nome": "Máscara Sem Rosto",
+    "elemento": "Medo",
+    "ameaca": "Extrema",
+    "descricao": "Presença anômala que se manifesta através de máscaras vazias e memórias apagadas."
+  }
+]
