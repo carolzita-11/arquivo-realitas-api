@@ -5,7 +5,7 @@
     "elemento": "Sangue",
     "ameaca": "Baixa",
     "descricao": "Os Zumbis de Sangue são criaturas paranormais de Sangue, originando-se de cadáveres que foram mortos brutalmente e deixados abandonados em uma área com a Membrana enfraquecida.",
-    "imagemUrl": "https://raw.githubusercontent.com/carolzita-11/arquivo-realitas-api/main/imagens/zumbi-de-sangue.jpg"
+    "imagemUrl": "https://raw.githubusercontent.com/carolzita-11/arquivo-realitas-api/main/imagens/zumbi.jpg"
   },
   {
     "id": 2,
@@ -29,7 +29,7 @@
     "elemento": "Morte",
     "ameaca": "Baixa",
     "descricao": "Os Esqueletos de Lodo são uma espécie de criatura que se manifesta a partir de um cadáver consumido pela Morte.",
-    "imagemUrl": "https://raw.githubusercontent.com/carolzita-11/arquivo-realitas-api/main/imagens/esqueleto-de-lodo.jpg"
+    "imagemUrl": "https://raw.githubusercontent.com/carolzita-11/arquivo-realitas-api/main/imagens/esqueleto.jpg"
   },
   {
     "id": 5,
@@ -77,7 +77,7 @@
     "elemento": "Energia",
     "ameaca": "Média",
     "descricao": "Os Anárquicos são criaturas de Energia imprevisíveis e erráticas que se manifestam a partir de uma morte em um ambiente com a membrana danificada, causada por um evento inoportuno e azarado, fazendo com que a entidade de Energia rapidamente consuma o corpo.",
-    "imagemUrl": "https://raw.githubusercontent.com/carolzita-11/arquivo-realitas-api/main/imagens/anarquico.jpg"
+    "imagemUrl": "https://raw.githubusercontent.com/carolzita-11/arquivo-realitas-api/main/imagens/anarquicoo.jpg"
   },
   {
     "id": 11,
